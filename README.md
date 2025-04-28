@@ -1,10 +1,10 @@
 # WASP: WiFi Adapter Security Protocol
 
-A portable framework for verifying the integrity and security of wireless network adapters before deployment in security research and education environments.
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MdrnDme/wasp/main/docs/images/logo.png" alt="WASP: WiFi Adapter Security Protocol" width="250"/>
+  <img src="assets/wasp_logo.png" alt="WASP Logo" width="300">
 </p>
+
+A portable framework for verifying the integrity and security of wireless network adapters before deployment in security research and education environments.
 
 ## Core Concept
 
