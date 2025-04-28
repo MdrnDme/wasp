@@ -1,0 +1,18 @@
+
+```json
+{
+  "ALFA_AWUS036ACH": {
+    "vendor_id": "0bda",
+    "product_id": "8812",
+    "firmware_version": "5.8.7.4",
+    "chipset": "RTL8812AU",
+    "md5_hash": "f8d17f529a33351a5b06636b8eb4173d"
+  },
+  "TP-Link_T3U_Plus": {
+    "vendor_id": "2357",
+    "product_id": "0138",
+    "firmware_version": "1.4.2.0",
+    "chipset": "RTL8812BU",
+    "md5_hash": "e27d4943d25a7e5e47aba5a41e9a0c91"
+  }
+}

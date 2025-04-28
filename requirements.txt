@@ -1,0 +1,5 @@
+scapy>=2.5.0
+matplotlib>=3.7.1
+requests>=2.31.0
+pyobjc-framework-CoreWLAN>=9.2; sys_platform == 'darwin'
+pyobjc-framework-SystemConfiguration>=9.2; sys_platform == 'darwin'
